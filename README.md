@@ -8,7 +8,7 @@
 ### Conteúdo
 
 - [x] Aula 01 - Introdução ao Dart/Flutter - Criando meu primeiro App - 09/05/2023
-- [ ] Aula 02 - Padrão BloC (Business Logic Object Components) - 16-05-2023
+- [x] Aula 02 - Padrão BloC (Business Logic Object Components) - Etanol x Gasolina - 16-05-2023
 - [ ] Aula 03 - Banco de dados local - SQLite - Models, Banco de Dados e Helpers - 23/05/2023
 - [ ] Aula 04 - Banco de dados local - SQLite - Models, Banco de Dados e Helpers - 30/05/2023
 - [ ] Aula 05 - Banco de dados local - SQLite - Listagem e Cadastro de Editoras - 06/06/2023
